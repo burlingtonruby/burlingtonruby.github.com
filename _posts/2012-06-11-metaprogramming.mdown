@@ -1,0 +1,11 @@
+---
+layout: post
+title: Responsible Metaprogramming in Rails
+location: Three West Collective
+address: 209 College Street 3W, Burlington, VT
+time: July 17, 2012 6:30 PM
+latitude: -73.21
+longitude: 44.477
+---
+
+Often referred to as "magic", Ruby metaprogramming techniques allow you to easily extend core Rails functionality. [Pete Brown](https://twitter.com/#!/beerlington), lead software engineer at [Draker](http://www.drakerenergy.com), will discuss a some of the metaprogramming challenges he encountered while developing a Ruby library called [Herd](https://github.com/beerlington/herd). Herd allows Rails developers to extract collection related logic into separate classes, not unlike collections in Backbone.js. Pete will explain the problem that Herd solves for his team, and walk through the source code (< 40 lines) which makes it possible. This talk is targeted toward web developers of all skill levels.

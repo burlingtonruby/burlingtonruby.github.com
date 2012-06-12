@@ -1,0 +1,20 @@
+---
+layout: main
+---
+
+{% for post in site.posts %}
+  <div class="row">
+    <div class="eight columns">
+      <h1 class="title">{{ post.title }}</h1>
+      {{ post.content }}
+    </div>
+    <div class="four columns">
+      <h3>Details</h3>
+      <div class="detail">{{ post.location }}</div>
+      <div class="detail">{{ post.address }}</div>
+      <div class="detail">{{ post.time }}</div>
+      <img src="http://api.tiles.mapbox.com/v3/mapbox.mapbox-streets/pin-m-star+ff6633({{ post.latitude }},{{ post.longitude }})/{{ post.latitude }},{{ post.longitude }},11/250x100.png">
+      <a class="register">Register</a>
+    </div>
+  </div>
+{% endfor %}
