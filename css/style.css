@@ -50,7 +50,7 @@ h3 {
 div.detail { margin-bottom:5px; }
 
 a.register {
-  margin-top:15px;
+  margin-top:5px;
   display:block;
   width:245px;
   font-weight:700;
@@ -59,4 +59,7 @@ a.register {
   background:#b90800;
   padding:5px 0 3px 5px;
   border-radius:3px;
+  text-decoration:none;
 }
+
+a.register:hover { background:#000; }
