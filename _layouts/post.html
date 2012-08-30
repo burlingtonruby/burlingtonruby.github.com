@@ -2,4 +2,17 @@
 layout: main
 ---
 
-{{ page.title }}
+<div class="row">
+  <div class="eight columns">
+    <h1 class="title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+    {{ content }}
+  </div>
+  <div class="four columns">
+    <h3>Details</h3>
+    <div class="detail">{{ page.location }}</div>
+    <div class="detail">{{ page.address }}</div>
+    <div class="detail">{{ page.time }}</div>
+    <img src="http://api.tiles.mapbox.com/v3/mapbox.mapbox-streets/pin-m-star+ff6633({{ page.latitude }},{{ page.longitude }})/{{ page.latitude }},{{ page.longitude }},11/250x100.png">
+    <a href="{{ page.registration }}" target="_blank" class="register">Register</a>
+  </div>
+</div>

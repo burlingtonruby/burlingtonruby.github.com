@@ -35,10 +35,17 @@ div.logo h2 {
 
 p { line-height:1.8em; }
 
+div.post { margin-bottom:80px; }
+
 h1.title {
   font-weight:900;
   text-transform:uppercase;
   margin-bottom:-10px;
+}
+
+h1.title a, a:visited {
+  color:#000;
+  text-decoration:none;
 }
 
 h3 {

@@ -1,0 +1,18 @@
+---
+layout: post
+title: Intro to Object Oriented Programming in Ruby and Intro to ActiveAdmin
+location: Three West Collective
+address: 209 College Street 3W, Burlington, VT
+time: September 18, 2012 6:30 PM
+latitude: -73.21
+longitude: 44.477
+registration: http://guestli.st/120279
+---
+
+**Intro to Object Oriented Programming in Ruby**
+
+Are you interested in writing code that is easier to test, integrate and maintain? Have you heard of things like polymorphism, inheritance and encapsulation but are never really sure how or when to use them? Join [Peter Brown](http://twitter.com/beerlington) of [Draker](http://drakerenergy.com) for an overview of object oriented programming concepts in the context of Ruby. He will discuss some basic and advanced OOP techniques, when and when not to apply them, and how to write maintainable code by testing and refactoring.
+
+**Intro to ActiveAdmin**
+
+One thing Ruby on Rails is really great at is CRUD (Create, Read, Update, Destroy). Ever think though "Wouldn't it be awesome if it was even simpler?". Well, [ActiveAdmin](http://activeadmin.info) is your answer. ActiveAdmin is a framework that abstracts common business application patterns (such as CRUD) while creating a simple and intuitive interface with a minimal amount of code. Join [Tristan O'Neil](http://twitter.com/tristanoneil) of [Gristmill](http://gristmill.io) for an overview of the framework. He will discuss why to use it, how to use it and might even subject himself to a live coding demo.
