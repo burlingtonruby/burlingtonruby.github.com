@@ -3,7 +3,7 @@ layout: post
 title: Intro to Object Oriented Programming in Ruby and Intro to ActiveAdmin
 location: Three West Collective
 address: 209 College Street 3W, Burlington, VT
-time: September 18, 2012 6:30 PM
+time: September 19, 2012 6:30 PM
 latitude: -73.21
 longitude: 44.477
 registration: http://guestli.st/120279
