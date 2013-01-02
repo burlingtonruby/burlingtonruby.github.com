@@ -6,8 +6,6 @@ time: January 30, 2013 6:30 PM
 registration: http://guestli.st/141663
 ---
 
-**Contributing to Ruby**
-
 Newcomer or seasoned veteran looking to get involved with Ruby documentation? We'll show you it's not as scary as it may seem, and there's plenty of ways to help. It's important to give back to the open source community and improve things for future developers.
 
 This talk will teach you the value of open-source, the benefits of contributing, and a little bit about how ruby-core works. You will learn what to look for when spotting documentation bugs in the MRI source code. We will cover the guidelines to writing MRI
