@@ -4,8 +4,6 @@ title: Responsible Metaprogramming in Rails
 location: Three West Collective
 address: 209 College Street 3W, Burlington, VT
 time: July 17, 2012 6:30 PM
-latitude: -73.21
-longitude: 44.477
 registration: http://guestli.st/109317
 ---
 
