@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Contributing to Ruby
+title: Contributing to Ruby and An Introduction to JRuby
 location: TBA
 time: January 30, 2013 6:30 PM
 registration: http://guestli.st/141663
 ---
+
+**Contributing to Ruby**
 
 Newcomer or seasoned veteran looking to get involved with Ruby documentation? We'll show you it's not as scary as it may seem, and there's plenty of ways to help. It's important to give back to the open source community and improve things for future developers.
 
@@ -12,3 +14,17 @@ This talk will teach you the value of open-source, the benefits of contributing,
 documentation, and how to submit a patch. Including helpful tricks using ri and rdoc.
 
 [Zachary Scott](https://twitter.com/_zzak) is a Ruby committer since September 2012 who will gladly help with your first patch into ruby-core.
+
+**An Introduction to JRuby**
+
+[Grant Defayette](https://twitter.com/etteyafed) will be presenting on the following surrounding JRuby.
+
+1. What is JRuby and how is it different from MRI?
+2. Why use would anyone use JRuby instead of MRI?
+3. Using Java code from Ruby.
+  * Java swing example.
+  * Custom Java class example.
+4. Using Ruby code from Java.
+  * Running ruby code from Java with JRuby's Red Bridge.
+  * Passing values to Ruby code from Java.
+  * Getting results back from Ruby.
