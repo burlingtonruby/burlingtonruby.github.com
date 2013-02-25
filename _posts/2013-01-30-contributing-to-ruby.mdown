@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Contributing to Ruby and An Introduction to JRuby
-location: Office Squared 77 College Street Burlington Vermont
+location: Office Squared
+address: 77 College Street, Burlington Vermont
 time: January 30, 2013 6:30 PM
 registration: http://guestli.st/141663
 ---
