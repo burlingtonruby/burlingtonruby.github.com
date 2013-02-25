@@ -21,7 +21,7 @@ documentation, and how to submit a patch. Including helpful tricks using ri and 
 [Grant Defayette](https://twitter.com/etteyafed) will be presenting on the following surrounding JRuby.
 
 1. What is JRuby and how is it different from MRI?
-2. Why use would anyone use JRuby instead of MRI?
+2. Why would anyone use JRuby instead of MRI?
 3. Using Java code from Ruby.
   * Java swing example.
   * Custom Java class example.
