@@ -1,0 +1,11 @@
+---
+layout: post
+title: May Drinkup
+location: The Farmhouse Parlor
+address: 160 Bank St., Burlington, VT
+time: May 7, 2013 7:00 PM
+registration: http://guestli.st/158043
+---
+
+Get together with old friends and new to talk about Ruby and have some
+fun.
