@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Classy Enum - A Ruby gem for classy developers
-location: TBD - Burlington, VT
-address: TBD
+location: Office Squared - Burlington, VT
+address: 106 Main St, 1st floor conference room
 time: Wed. June 26, 2013 6:30 PM
 registration: http://guestli.st/167061
 ---
 
-Do you loathe conditional logic? Does refactoring timid procedural turd code
+Do you loathe conditional logic? Does refactoring timid procedural code
 into confident object oriented logic get you excited? Do you like monocles? If you
 answered yes (or no) to any of these questions, you should come to this
 presentation.
@@ -17,7 +17,10 @@ a Ruby gem called [Classy Enum](https://github.com/beerlington/classy_enum)
 which adds class-based enumerator functionality
 to ActiveRecord attributes. He will demonstrate real use cases,
 and show you how you can incorporate the gem into your Ruby projects with
-little effort. With Classy Enum, your code will be easier to test and maintain,
+little effort. You will also learn about alternatives to this gem that can be
+used where enums are not a good fit.
+
+With Classy Enum, your code will be easier to test and maintain,
 making you the happiest Ruby developer you know.
 
 We will be heading into town for drinks afterward which will also make
