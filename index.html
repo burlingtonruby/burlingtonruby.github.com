@@ -13,7 +13,9 @@ layout: main
       <div class="detail">{{ post.location }}</div>
       <div class="detail">{{ post.address }}</div>
       <div class="detail">{{ post.time }}</div>
-      <a href="{{ post.registration }}" target="_blank" class="register">Register</a>
+      {% if post.registration != "" %}
+        <a href="{{ post.registration }}" target="_blank" class="register">Register</a>
+      {% endif %}
     </div>
   </div>
 {% endfor %}
