@@ -4,7 +4,7 @@ title: Celebrate the New Year with rubyfriends
 location: The Farmhouse (Parlor) - Burlington, VT
 address: 160 Bank St. - The Basement
 time: Wed. January 15, 2014 7:00 PM
-registration: ""
+registration: http://www.meetup.com/VTCode/events/158163112/
 ---
 
 Rubyists, let us get together to hangout, chat, eat and drink!
