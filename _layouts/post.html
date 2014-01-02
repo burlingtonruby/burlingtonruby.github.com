@@ -12,6 +12,8 @@ layout: main
     <div class="detail">{{ page.location }}</div>
     <div class="detail">{{ page.address }}</div>
     <div class="detail">{{ page.time }}</div>
-    <a href="{{ page.registration }}" target="_blank" class="register">Register</a>
+    {% if page.registration != "" %}
+      <a href="{{ page.registration }}" target="_blank" class="register">Register</a>
+    {% endif %}
   </div>
 </div>
