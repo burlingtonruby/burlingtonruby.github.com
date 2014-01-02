@@ -7,4 +7,4 @@ time: Wed. January 15, 2014 7:00 PM
 registration: ""
 ---
 
-Rubyists, let's get together to hangout, chat, eat and drink!
+Rubyists, let us get together to hangout, chat, eat and drink!

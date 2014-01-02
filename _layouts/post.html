@@ -1,11 +1,11 @@
 ---
-layout: main
+layout: default
 ---
 
 <div class="row">
   <div class="eight columns">
     <h1 class="title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
-    {{ content }}
+    {{ content | markdownify }}
   </div>
   <div class="four columns">
     <h3>Details</h3>
